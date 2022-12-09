@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 2px;
+}
+
+.QR {
+    height: 500px;
+    width: 320px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10%;
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: Dark blue hsl(218, 44%, 22%);
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+body {
+    background: hsl(212, 45%, 89%);
+}
+
+img {
+    border-radius: 40px;
+    margin-bottom: 5%;
+
+}
+
+.attribution {
+    font-size: 20px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
